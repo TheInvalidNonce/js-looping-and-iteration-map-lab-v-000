@@ -11,5 +11,5 @@ function nameToAttributes(arr) {
 }
 
 function attributesToPhrase(arr) {
-  
+  debugger;
 }
