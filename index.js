@@ -7,6 +7,7 @@ function lowerCaseDrivers(arr) {
 function nameToAttributes(arr) {
   
   return arr.map(function (el) {
-    return Object.assign({}, {[firstName]})
+    el.split(" ")
+      return Object.assign({}, {firstName: el[0], lastName: el[1]})
   })
 }
