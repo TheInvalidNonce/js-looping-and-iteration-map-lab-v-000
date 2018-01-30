@@ -3,3 +3,7 @@ function lowerCaseDrivers(arr) {
     return el.toLowerCase();
   })
 }
+
+function nameToAttributes(arr) {
+  return 
+}
