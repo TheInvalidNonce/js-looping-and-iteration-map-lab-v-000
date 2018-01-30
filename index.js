@@ -12,4 +12,7 @@ function nameToAttributes(arr) {
 
 function attributesToPhrase(arr) {
   debugger;
+  return arr.map(function (el) {
+    
+  })
 }
