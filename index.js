@@ -5,5 +5,8 @@ function lowerCaseDrivers(arr) {
 }
 
 function nameToAttributes(arr) {
-  return 
+  
+  return arr.map(function (el) {
+    return Object.assign({}, {[firstName]})
+  })
 }
