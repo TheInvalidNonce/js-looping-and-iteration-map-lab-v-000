@@ -10,5 +10,6 @@ function nameToAttributes(arr) {
     el.split(" ")
       debugger; 
       return Object.assign({}, {firstName: el[0], lastName: el[1]})
+      
   })
 }
